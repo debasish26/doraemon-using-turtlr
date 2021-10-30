@@ -1,0 +1,17 @@
+from turtle import *
+from doraemon import *
+pensize(2)
+speed(9)
+head()
+belt()
+face()
+nose()
+mouth()
+whisker()
+body()
+arms()
+pocket()
+bell()
+black_eyes()
+ht()
+done()
